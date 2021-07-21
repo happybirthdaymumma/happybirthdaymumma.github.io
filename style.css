@@ -1,0 +1,78 @@
+body {
+  background-color: rgb(0,255,242);
+  margin: 0;
+}
+
+#img {
+  position: absolute;
+  top: 8%;
+  left: 2%;
+}
+
+#img-2 {
+  position: absolute;
+  top: 10%;
+  left: 28%;
+}
+
+#img-3 {
+  position: absolute;
+  top: 55%;
+  left: 10%;
+}
+
+#img-4 {
+  position: absolute;
+  top: 75%;
+  left: 23%;
+}
+
+#img-5 {
+  position: absolute;	
+  top: 60%;
+  left: 36%;
+}
+
+#img-6 {
+  position: absolute;
+  top: 10%;
+  right: 2%;
+}
+
+#img-9 {
+  position: absolute;
+  top: 10%;
+  left: 15%;
+}
+
+#img-10 {
+  position: absolute;
+  top: 40%;
+  left: 14%;
+}
+
+#container {
+  width: auto;
+  margin: auto;
+  border: 1px solid rgb(145, 0, 0);
+  border-top: 10px solid black;
+  border-bottom: 10px solid black;
+  border-right: 10px solid black;
+  border-left: 10px solid black;
+}
+
+#greeting {
+  position: absolute;
+  bottom: 17%;
+  right: 16%;
+  font-family: 'dancing script',cursive;
+  font-size: 40px;
+}
+
+#message {
+  position: absolute;
+  bottom: 8%;
+  right: 5%;
+  font-family: 'cinzel',serif;
+  font-size: 20px;
+}
